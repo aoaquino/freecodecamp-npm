@@ -1,0 +1,27 @@
+{
+  "name": "fcc-learn-npm-package-json",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  },
+  "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "keywords": [
+    "ip",
+    "geo",
+    "country"
+  ],
+  "author": "Auseris Aquino",
+  "license": "ISC"
+}
+^\keywords
+
